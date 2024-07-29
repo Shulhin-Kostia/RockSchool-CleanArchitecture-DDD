@@ -1,0 +1,8 @@
+.vs/
+DockerizedDB/
+TestPostgresEnums/
+Planning.txt
+src/API/Properties/
+src/API/API.http
+src/**/obj/
+src/**/bin/
